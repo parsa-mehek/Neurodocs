@@ -229,10 +229,4 @@ This project demonstrates practical AI engineering concepts including:
 
 ## Author
 
-Your Name
-
----
-
-## License
-
-MIT License
+Parsa Amin Mehek
